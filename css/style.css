@@ -99,14 +99,14 @@
 /* GLOBAL */
 
 body {
-  background-color: #000000;  
+  /* background-color: #000000;  */
   margin:40px auto;
   max-width:650px;
   line-height:1.6;
   font-size:18px;
   color:#444;
   padding:0 10px;
-  font-family: 'Roboto', sans-serif;
+  /* font-family: 'Roboto', sans-serif; */
 }
 
 h2,h3{
